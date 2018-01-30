@@ -1,0 +1,16 @@
+{
+  "name": "spinpong",
+  "version": "0.0.1",
+  "description": "a canvas pong game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  },
+
+}
